@@ -952,9 +952,9 @@ html {
 
 @media (max-width: 750px) {
 
-    .header .container {
-        padding-right: 0;
+   .header .container {
         padding-left: 0;
+        padding-right: 0;
     }
 
     .logo {
